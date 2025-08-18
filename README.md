@@ -1,12 +1,18 @@
 # 📘 Programación Física | Physics Programming
 
 Este repositorio contiene ejercicios, prácticas y proyectos relacionados con **programación aplicada a la física**.  
-Incluye simulaciones, cálculos numéricos y experimentos computacionales en distintos lenguajes.
+Incluye simulaciones, cálculos numéricos y experimentos computacionales en distintos lenguajes de los siquientes libros:
+
+-
+-
 
 ---
 
 This repository contains exercises, practices, and projects related to **programming applied to physics**.  
-It includes simulations, numerical calculations, and computational experiments in different programming languages.
+It includes simulations, numerical calculations, and computational experiments in different programming languages from these books.
+
+-
+-
 
 ---
 
@@ -21,8 +27,7 @@ It includes simulations, numerical calculations, and computational experiments i
 ## 🚀 Tecnologías | Technologies
 - Python 🐍  
 - C++ 💻  
-- [Agrega otros lenguajes si los usas]  
-
+-
 ---
 
 ## 🎯 Objetivo | Purpose
@@ -34,5 +39,4 @@ It includes simulations, numerical calculations, and computational experiments i
 ## 📖 Uso | Usage
 ```bash
 # Clonar el repositorio | Clone repository
-git clone https://github.com/usuario/mi-repo-fisica.git
-cd mi-repo-fisica
+git clone https://github.com/juanmillan03/mi-repo-fisica.git
