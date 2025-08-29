@@ -39,4 +39,4 @@ It includes simulations, numerical calculations, and computational experiments i
 ## 📖 Uso | Usage
 ```bash
 # Clonar el repositorio | Clone repository
-git clone https://github.com/juanmillan03/mi-repo-fisica.git
+git clone https://github.com/juanmillan03/Computational_Physics.git
